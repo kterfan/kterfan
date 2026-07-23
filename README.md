@@ -46,7 +46,7 @@
 |---|---|---|
 | **[ParsiSwap](https://github.com/kterfan/ParsiSwap)** | Translate selected text between Persian and English from anywhere in Windows with one hotkey. | Python |
 | **[KeyMagic](https://github.com/kterfan/KeyMagic)** | Instantly fix text typed with the wrong Persian/English keyboard layout. | Python |
-| **Private Production Platforms** | Full-stack web platforms with dashboards, payments, storage, AI workflows, and production deployment. | Next.js · FastAPI · PostgreSQL · Docker |
+| **[Web Platform Case Studies](https://github.com/kterfan/web-platform-case-studies)** | Production full-stack platforms with dashboards, payments, storage, AI workflows, and deployment infrastructure. | Next.js · FastAPI · PostgreSQL · Docker |
 
 ---
 

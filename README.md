@@ -5,15 +5,24 @@
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 
 <h3 align="center">
-  I build practical Windows tools that make typing, translation, and everyday work simpler.
+  Full-Stack Web Developer building modern websites, production platforms, and practical Windows tools.
 </h3>
 
 ---
 
-🌱 Currently building useful desktop tools and exploring better ways to automate everyday tasks  
-💡 I enjoy turning small, real-world problems into simple and usable software  
-🎯 Improving my Python skills and building cleaner, more reliable solutions  
+🌐 I design and build full-stack websites, dashboards, content platforms, and admin panels  
+⚙️ Working across frontend, backend, databases, deployment, and server infrastructure  
+🖥️ I also build practical Windows tools that solve everyday problems  
+🎯 Focused on clean architecture, reliable systems, and genuinely useful products  
 📬 Reach me on [Telegram](https://t.me/Erfan_EsmailzadeH)
+
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,python,fastapi,postgres,redis,docker,nginx,git&perline=11" alt="Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, PostgreSQL, Redis, Docker, Nginx, and Git" />
+</p>
 
 ---
 

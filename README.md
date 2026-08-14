@@ -1,60 +1,97 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kterfan&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kterfan&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Erfan</h1>
+<h1 align="center">Erfan Esmailzadeh</h1>
 
-<h3 align="center">Full-Stack Developer building production-ready web platforms and practical desktop tools.</h3>
+<p align="center">
+  <strong>Full-Stack Engineer · Product Builder · Open-Source Creator</strong>
+</p>
+
+<p align="center">
+  I build production web platforms, AI-powered developer tools, and Persian-first desktop utilities.<br />
+  From polished interfaces to reliable infrastructure, I turn useful ideas into products people can actually use.
+</p>
+
+<p align="center" dir="rtl">
+  <strong>محصولات وب، ابزارهای هوشمند و تجربه‌های دیجیتال کاربردی می‌سازم.</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/kterfan?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
   </a>
   <a href="https://t.me/Erfan_EsmailzadeH">
-    <img src="https://img.shields.io/badge/Let's_Talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me on Telegram" />
+    <img src="https://img.shields.io/badge/Let's_Build_Something-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me on Telegram" />
   </a>
 </p>
 
 ---
 
-### What I Do
+## What I Bring to the Table
 
-- Build complete web products: responsive interfaces, APIs, databases, and deployment
-- Develop dashboards, admin panels, content platforms, and automation workflows
-- Work with authentication, payments, media storage, AI integrations, and production infrastructure
-- Create practical Windows utilities that solve everyday problems with simple shortcuts
-
-### Core Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<p align="center"><sub>Also working with Redis, Nginx, Git, authentication, payments, storage, and AI integrations.</sub></p>
-
-### Featured Work
-
-| Project | Description | Tech |
+| Product Engineering | Backend & Infrastructure | Intelligent Tools |
 |---|---|---|
-| **[ParsiSwap](https://github.com/kterfan/ParsiSwap)** | Translate selected text between Persian and English from anywhere in Windows with one hotkey. | Python |
-| **[KeyMagic](https://github.com/kterfan/KeyMagic)** | Instantly fix text typed with the wrong Persian/English keyboard layout. | Python |
-| **[Web Platform Case Studies](https://github.com/kterfan/web-platform-case-studies)** | Production full-stack platforms with dashboards, payments, storage, AI workflows, and deployment infrastructure. | Next.js · FastAPI · PostgreSQL · Docker |
+| Responsive product interfaces, dashboards, admin systems, and complete user flows | APIs, databases, authentication, payments, storage, containers, and deployment | AI integrations, automation workflows, developer tooling, and practical desktop utilities |
+
+I care about the full journey: understanding the problem, making the right tradeoffs, shipping the product, and improving it after release.
+
+## Selected Work
+
+### [UI Pro Forge](https://github.com/kterfan/ui-pro-forge)
+
+Design intelligence for AI coding agents — **85 UI styles, 193 color palettes, 74 font pairings**, and stack-aware guidance for 21 frameworks, available through offline search and a CLI.
+
+`Python` `AI Tooling` `Design Systems` `CLI`
+
+### [ParsiSwap](https://github.com/kterfan/ParsiSwap)
+
+Translate selected text between Persian and English from anywhere in Windows with a single hotkey — built to remove friction from an everyday bilingual workflow.
+
+`Python` `Windows` `Persian ⇄ English` `Productivity`
+
+### [KeyMagic](https://github.com/kterfan/KeyMagic)
+
+Instantly repair text typed with the wrong Persian or English keyboard layout instead of deleting it and starting over.
+
+`Python` `Windows` `Automation` `Keyboard Utilities`
+
+### [Web Platform Case Studies](https://github.com/kterfan/web-platform-case-studies)
+
+Production-oriented full-stack platforms featuring dashboards, payments, media storage, AI workflows, and deployment infrastructure.
+
+`Next.js` `FastAPI` `PostgreSQL` `Docker`
 
 ---
 
-<h3 align="center">Have a project in mind?</h3>
+## Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,postgres,redis,docker,nginx,git,github&perline=6" alt="Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, PostgreSQL, Redis, Docker, Nginx, Git, and GitHub" />
+</p>
+
+<p align="center">
+  <sub>Also experienced with authentication, payments, media storage, API integrations, AI workflows, and production deployment.</sub>
+</p>
+
+## How I Work
+
+- **Product-minded** — technology serves the user and the outcome.
+- **End-to-end** — interface, backend, data, deployment, and iteration belong to one system.
+- **Practical** — I favor clear architecture, maintainable code, and tools that earn their place.
+- **Persian-first, globally usable** — local problems deserve world-class product thinking.
+
+---
+
+<h2 align="center">Have a useful idea worth shipping?</h2>
+
+<p align="center">
+  I am open to product collaborations, full-stack projects, and ambitious developer-tool ideas.
+</p>
 
 <p align="center">
   <a href="https://t.me/Erfan_EsmailzadeH">
-    <img src="https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message me on Telegram" />
+    <img src="https://img.shields.io/badge/Start_a_Conversation-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Start a conversation on Telegram" />
   </a>
 </p>
 
